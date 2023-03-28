@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react'
 import Button from 'react-bootstrap/Button'
 import Form from 'react-bootstrap/Form'
 import { useParams } from 'react-router-dom'
-import Footer from '../Footer'
 
 const UpdateService = () => {
   const { serviceId } = useParams()

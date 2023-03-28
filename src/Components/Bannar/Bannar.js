@@ -1,6 +1,5 @@
 import React from 'react'
 import { Carousel } from 'react-bootstrap'
-import Footer from '../Footer'
 const Bannar = () => {
   return (
     <>

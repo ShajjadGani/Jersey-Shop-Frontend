@@ -38,7 +38,7 @@ const AddService = () => {
     <>
     <div class="body">
       <div class="b1">
-        <img src="https://www.nicepng.com/png/detail/136-1368278_cristiano-ronaldo-juventus.png"></img>
+        <img src="https://www.nicepng.com/png/detail/136-1368278_cristiano-ronaldo-juventus.png" alt=""></img>
       </div>
       <div class="b2">
         <h3>Add Jersey</h3>

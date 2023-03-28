@@ -1,7 +1,6 @@
 import React from 'react'
 import { Button, Card } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
-import Footer from '../Footer'
 import './Service.css'
 const Service = (props) => {
   const { _id, name, img, price, size } = props.realService

@@ -13,10 +13,10 @@ export default function Footer() {
     </div>
     <div class="social">
       <h3>Connect with us</h3>
-      <p><a href=""><img src="https://cdn.pixabay.com/photo/2015/05/17/10/51/facebook-770688_1280.png"/>  facebook.com/JerseyShop</a></p>
-        <p><a href=""><img src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=2000"/>   Instagram/JerseyShop</a></p>
-        <p><a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqub4gve8fWr84M-Swd-kaW2-Fx4f4BcBY5MNb5s-57iDYqIwkCDIfZuAjctlh82Ryf9U&usqp=CAU"/>   Twitter/JerseyShop</a></p>
-        <p><a href=""><img src="https://thumbs.dreamstime.com/b/email-icon-isolated-white-background-email-icon-trendy-design-style-email-icon-isolated-white-background-email-icon-183701610.jpg"/> moin19711@outlook.com</a>
+      <p><a href="/"><img src="https://cdn.pixabay.com/photo/2015/05/17/10/51/facebook-770688_1280.png" alt=""/>  facebook.com/JerseyShop</a></p>
+        <p><a href="/"><img src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=2000"alt=""/>   Instagram/JerseyShop</a></p>
+        <p><a href="/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqub4gve8fWr84M-Swd-kaW2-Fx4f4BcBY5MNb5s-57iDYqIwkCDIfZuAjctlh82Ryf9U&usqp=CAU"alt=""/>   Twitter/JerseyShop</a></p>
+        <p><a href="/"><img src="https://thumbs.dreamstime.com/b/email-icon-isolated-white-background-email-icon-trendy-design-style-email-icon-isolated-white-background-email-icon-183701610.jpg"alt=""/> moin19711@outlook.com</a>
       </p>
     </div>
   

@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Service from '../Service/Service'
 import '../Services/Services.css'
-import Footer from '../Footer'
 
 const Services = () => {
   const [services, setServices] = useState([])

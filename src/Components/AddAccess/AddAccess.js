@@ -1,6 +1,5 @@
 import React, { useRef } from 'react'
 import { Button, Form } from 'react-bootstrap'
-import Footer from '../Footer'
 
 const AddAccesories = () => {
   const nameRef = useRef()
@@ -37,7 +36,7 @@ const AddAccesories = () => {
     <>
     <div class="body">
       <div class="b1">
-        <img src="https://i2-prod.mirror.co.uk/incoming/article11205729.ece/ALTERNATES/n615/CR7-series-Chapter-5-Cut-To-Brilliance.jpg"></img>
+        <img src="https://i2-prod.mirror.co.uk/incoming/article11205729.ece/ALTERNATES/n615/CR7-series-Chapter-5-Cut-To-Brilliance.jpg" alt="Shovon"></img>
       </div>
       <div class="b2">
         <h3>Add Accesories</h3>
