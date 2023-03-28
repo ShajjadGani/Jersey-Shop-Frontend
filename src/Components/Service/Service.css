@@ -1,0 +1,8 @@
+.card:hover{
+    transform: scale(1.07);
+    box-shadow: 0 3px 10px #efcbf8;
+    margin: 2px;
+    margin-left:10px ;
+    border-style: inset;
+    transition: 0.8s;
+}
