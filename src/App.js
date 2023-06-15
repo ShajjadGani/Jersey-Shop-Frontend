@@ -10,6 +10,7 @@ import UpdateService from './Components/UpdateService/UpdateService'
 import AddAccess from './Components/AddAccess/AddAccess'
 import Access from './Components/Access/Access'
 import Footer from './Components/Footer'
+import Login from './Components/Login/Login'
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
         <Route path="/updateService/:serviceId" element={<UpdateService />} />
         <Route path="/AddAccess" element={<AddAccess />} />
         <Route path="/Access" element={<Access  />} />
+        <Route path="/login" element={<Login />} />
       </Routes>
       <Footer></Footer>
     </div>

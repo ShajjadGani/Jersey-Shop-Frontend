@@ -1,0 +1,26 @@
+.body{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    background-color: #F6F6F6;
+    min-height: 80vh;
+}
+.b1 {
+    margin-top: 30px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.b1 img{
+    width:100%;
+}
+.b2{
+    margin:40px;
+}
+.b2 Button{
+    align-items: center;
+}
+.b2 h3{
+    text-align: center;
+}
